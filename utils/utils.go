@@ -1,5 +1,14 @@
 
 package utils
+
+import (
+	"fmt"
+	"log"
+	"net/http"
+	"io/ioutil"
+	"encoding/json"
+)
+
 // change this to define a new struct called pages
 // with arbitary json data afterwards
 type WikiData struct {
@@ -10,7 +19,7 @@ type WikiData struct {
 }
 
 
-func findTerm(term string, client *http.Client) (string, error) {
+func FindTerm(term string, client *http.Client) (string, error) {
 	if term == "" {
 		term = "Ease of movement"
 	}

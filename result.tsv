@@ -1,0 +1,580 @@
+abbr	full_name
+abbr	full_name	A personal name or full name is the set of names by which an individual is known and that can be recited as a word-group, with the understanding that, taken together, they all relate to that one individual. In many cultures, the term is synonymous with the birth name or legal name of the individual. The academic study of personal names is called anthroponymy.
+In Western culture, nearly all individuals possess at least one given name (also known as a first name, forename, or Christian name), together with a surname (also known as a last name or family name)—respectively, the Abraham and Lincoln in Abraham Lincoln—the latter to indicate that the individual belongs to a family, a tribe, or a clan. Where there are two or more given names, typically only one (in English-speaking cultures usually the first) is used in normal speech.
+Another naming convention that is used mainly in the Arabic culture and in different other areas across Africa and Asia is connecting the person's given name with a chain of names, starting with the name of the person's father and then the father's father and so on, usually ending with the family name (tribe or clan name). However, the legal full name of a person usually contains the first three names with the family name at the end, to limit the name in government-issued ID. The wife's name does not change after marriage, and it follows the naming convention described above.Some cultures, including Western ones, also add (or once added) patronymics or matronymics. For instance, as a middle name as with Pyotr Ilyich Tchaikovsky (whose father's given name was Ilya), or as a last name as with Björk Guðmundsdóttir (whose father is named Guðmundur) or Heiðar Helguson (whose mother was named Helga). Similar concepts are present in Eastern cultures.
+However, in some areas of the world, many people are known by a single name, and so are said to be mononymous. Still other cultures lack the concept of specific, fixed names designating people, either individually or collectively. Certain isolated tribes, such as the Machiguenga of the Amazon, do not use personal names.A person's full name usually identifies that person for legal and administrative purposes, although it may not be the name by which the person is commonly known; some people use only a portion of their full name, or are known by titles, nicknames, pseudonyms or other formal or informal designations.
+It is nearly universal for people to have names; the United Nations Convention on the Rights of the Child declares that a child has the right to a name from birth.
+AD	Chaikin A/D Line	
+ADOSC	Chaikin A/D Oscillator	
+ADX	Average Directional Movement Index	The average directional movement index (ADX) was developed in 1978 by J. Welles Wilder as an indicator of trend strength in a series of prices of a financial instrument. ADX has become a widely used indicator for technical analysts, and is provided as a standard in collections of indicators offered by various trading platforms.
+ADXR	Average Directional Movement Index Rating	
+APO	Absolute Price Oscillator	
+AROON	Aroon	
+AROONOSC	Aroon Oscillator	
+ATR	Average True Range	Average true range (ATR) is a technical analysis volatility indicator originally developed by J. Welles Wilder, Jr. for commodities. The indicator does not provide an indication of price trend, simply the degree of price volatility.
+The average true range is an N-period smoothed moving average (SMMA) of the true range values. Wilder recommended a 14-period smoothing.
+AVGPRICE	Average Price	
+BBANDS	Bollinger Bands	Bollinger Bands are a type of statistical chart characterizing the prices and volatility over time of a financial instrument or commodity, using a formulaic method propounded by John Bollinger in the 1980s.  Financial traders employ these charts as a methodical tool to inform trading decisions, control automated trading systems, or as a component of technical analysis.  Bollinger Bands display a graphical band (the envelope maximum and minimum of moving averages, similar to Keltner or Donchian channels) and volatility (expressed by the width of the envelope) in one two-dimensional chart.
+Two input parameters chosen independently by the user govern how a given chart summarizes the known historical price data, allowing the user to vary the response of the chart to the magnitude and frequency of price changes, similar to parametric equations in signal processing or control systems. Bollinger Bands consist of an N-period moving average (MA), an upper band at K times an N-period standard deviation above the moving average (MA + Kσ), and a lower band at K times an N-period standard deviation below the moving average (MA − Kσ).  The chart thus expresses arbitrary choices or assumptions of the user, and is not strictly about the price data alone.
+Typical values for N and K are 20 days and 2, respectively. The default choice for the average is a simple moving average, but other types of averages can be employed as needed. Exponential moving averages are a common second choice. Usually the same period is used for both the middle band and the calculation of standard deviation.Bollinger registered the words "Bollinger Bands" as a U.S. trademark in 2011.
+
+BETA	Beta	Beta (UK: , US: ; uppercase Β, lowercase β, or cursive ϐ; Ancient Greek: βῆτα, romanized: bē̂ta or Greek: βήτα, romanized: víta) is the second letter of the Greek alphabet. In the system of Greek numerals it has a value of 2. In Ancient Greek, beta represented the voiced bilabial plosive /b/. In Modern Greek, it represents the voiced labiodental fricative /v/ (while /b/ in foreign words is instead commonly transcribed as μπ). Letters that arose from beta include the Roman letter ⟨B⟩ and the Cyrillic letters ⟨Б⟩ and ⟨В⟩.
+BOP	Balance Of Power	Balance of power may refer to:
+
+Balance of power (international relations), parity or stability between competing forces
+Balance of power (federalism), distribution of power between a central government and its subnational governments
+Balance of power (parliament), the power exercised by a minor political party whose support enables a minority government to obtain office
+European balance of power, European international relations before the First World WarIn popular culture:
+
+Balance of Power (album), a 1986 album by Electric Light Orchestra
+Balance of Power (band), a British melodic progressive metal group formed in 1995
+"Balance of Power" (Red Dwarf), a 1988 episode of the TV series Red Dwarf
+"The Balance of Power" (Minder), an episode of the TV series Minder
+Balance of Power (Star Trek), a 1994 Star Trek: The Next Generation novel by Dafydd Ab Hugh
+Balance of Power (video game), a 1985 geopolitical strategy computer game
+CCI	Commodity Channel Index	The commodity channel index (CCI) is an oscillator originally introduced by Donald Lambert in 1980.
+Since its introduction, the indicator has grown in popularity and is now a very common tool for traders in identifying cyclical trends not only in commodities but also equities and currencies. The CCI can be adjusted to the timeframe of the market traded on by changing the averaging period.
+CDL2CROWS	Two Crows	
+CDL3BLACKCROWS	Three Black Crows	Three crows is a term used by stock market analysts to describe a market downturn.  It appears on a candlestick chart in the financial markets. It unfolds across three trading sessions, and consists of three long candlesticks that trend downward like a staircase. Each candle should open below the previous day's open, ideally in the middle price range of that previous day. Each candlestick should also close progressively downward to establish a new near-term low. The pattern indicates a strong price reversal from a bull market to a bear market.The three crows help to confirm that a bull market has ended and market sentiment has turned negative. In Japanese Candlestick Charting Techniques, technical analyst Steve Nison says "The three crows would likely be useful for longer-term traders."This candlestick pattern has a counterpart known as the Three soldiers, whose attributes help identify a bullish reversal or market upswing.
+CDL3INSIDE	Three Inside Up/Down	
+CDL3LINESTRIKE	Three-Line Strike	
+CDL3OUTSIDE	Three Outside Up/Down	
+CDL3STARSINSOUTH	Three Stars In The South	
+CDL3WHITESOLDIERS	Three Advancing White Soldiers	
+CDLABANDONEDBABY	Abandoned Baby	
+CDLADVANCEBLOCK	Advance Block	
+CDLBELTHOLD	Belt-hold	
+CDLBREAKAWAY	Breakaway	Breakaway or Break Away may refer to:
+CDLCLOSINGMARUBOZU	Closing Marubozu	
+CDLCONCEALBABYSWALL	Concealing Baby Swallow	
+CDLCOUNTERATTACK	Counterattack	A counterattack is a tactic employed in response to an attack, with the term originating in "war games". The general objective is to negate or thwart the advantage gained by the enemy during attack, while the specific objectives typically seek to regain lost ground or destroy the attacking enemy (this may take the form of an opposing sports team or military units).A saying, attributed to Napoleon Bonaparte illustrate the tactical importance of the counterattack : "the greatest danger occurs at the moment of victory". In the same spirit, in his Battle Studies, Ardant du Pic noticed that "he, general or mere captain, who employs every one in the storming of a position can be sure of seeing it retaken by an organised counter-attack of four men and a corporal".A counterattack is a military tactic that occurs when one side successfully defends off the enemy’s attack and begins to push the enemy back with an attack of its own. In order to perform a successful counterattack, the defending side must quickly and decisively strike the enemy after defending, with the objective of shocking and overwhelming the enemy. The main concept of the counterattack is to catch the enemy by surprise. Many historical counterattacks were successful because the enemy was off guard and not expecting the counterattack.
+CDLDARKCLOUDCOVER	Dark Cloud Cover	
+CDLDOJI	Doji	The doji (jp:どうじ 同事, same matter) is a commonly found pattern in a candlestick chart of financially traded assets (stocks, bonds, futures, etc.) in technical analysis. It is characterized by being small in length—meaning a small trading range—with an opening and closing price that are virtually equal.  The efficacy of technical analysis is disputed by the efficient-market hypothesis, which states that stock market prices are essentially unpredictable.The doji represents indecision in the market. A doji is not as significant if the market is not clearly trending, as non-trending markets are inherently indicative of indecision. If the doji forms in an uptrend or downtrend, this is normally seen as significant, as it is a signal that the buyers are losing conviction when formed in an uptrend and a signal that sellers are losing conviction if seen in a downtrend.
+CDLDOJISTAR	Doji Star	
+CDLDRAGONFLYDOJI	Dragonfly Doji	
+CDLENGULFING	Engulfing Pattern	
+CDLEVENINGDOJISTAR	Evening Doji Star	
+CDLEVENINGSTAR	Evening Star	Evening star may refer to:
+CDLGAPSIDESIDEWHITE	Up/Down-gap side-by-side white lines	
+CDLGRAVESTONEDOJI	Gravestone Doji	
+CDLHAMMER	Hammer	A  hammer is a tool consisting of a weighted "head" fixed to a long handle that is swung to deliver an impact to a small area of an object.  This can be, for example, to drive nails into wood, to shape metal (as with a forge), or to crush rock.  Hammers are used for a wide range of driving, shaping, and breaking applications. 
+The modern hammer head is typically made of steel which has been heat treated for hardness, and the handle (also known as a haft or helve) is typically made of wood or plastic.
+The claw hammer has a "claw" to pull nails out of wood, and is commonly found in an inventory of household tools in North America. Other types of hammer vary in shape, size, and structure, depending on their purposes. Hammers used in many trades include sledgehammers, mallets, and ball-peen hammers. Although most hammers are hand tools, powered hammers, such as steam hammers and trip hammers, are used to deliver forces beyond the capacity of the human arm. There are over 40 different types of hammers that have many different types of uses.
+CDLHANGINGMAN	Hanging Man	The Hanged Man (XII) is the twelfth trump or Major Arcana card in most traditional Tarot decks. It is used in game playing as well as in divination.
+It depicts a pittura infamante (pronounced [pitˈtuːra iɱfaˈmante]), an image of a man being hanged upside-down by one ankle (the only exception being the Tarocco Siciliano, which depicts the man hanged by the neck instead). This method of hanging was a common punishment at the time for traitors in Italy. However, the solemn expression on his face traditionally suggests that he is there by his own accord, and the card is meant to represent self-sacrifice more so than it does corporal punishment or criminality.In other interpretations, The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge. There is also a Christian interpretation that portrays Judas Iscariot, and include the bags of silver in his hands. In the Lo Scarabeo African American Tarot deck the 12th card of the major arcana is the Observer, depicting the Nigerian god “Ifa” of fate and destiny blindfolded and surrounded by eyes. 
+
+CDLHARAMI	Harami Pattern	
+CDLHARAMICROSS	Harami Cross Pattern	
+CDLHIGHWAVE	High-Wave Candle	
+CDLHIKKAKE	Hikkake Pattern	The hikkake pattern, or hikkake, is a technical analysis pattern used for determining market turning-points and continuations. It is a simple pattern that can be observed in market price data, using traditional bar charts, point and figure charts, or Japanese candlestick charts. The pattern does not belong to the collection of traditional candlestick chart patterns.
+Though some have referred to the hikkake pattern as an "inside day false breakout" or a "fakey pattern", these are deviations from the original name given to the pattern by Daniel L. Chesler, CMT and are not popularly used to describe the pattern.  For example, the name "hikkake pattern" has been chosen over "inside day false breakout" or "fakey pattern" by the majority of book authors who have covered the subject, including: "Technical Analysis: The Complete Resource for Financial Market Technicians" by Charles D. Kirkpatrick and Julie R. Dahlquist, and "Long/Short Market Dynamics: Trading Strategies for Today's Markets" by Clive M. Corcoran, and "Diary of a Professional Commodity Trader" by Peter L. Brandt.
+
+CDLHIKKAKEMOD	Modified Hikkake Pattern	
+CDLHOMINGPIGEON	Homing Pigeon	The true messenger pigeon is a variety of domestic pigeons (Columba livia domestica) derived from the wild rock dove, selectively bred for its ability to find its way home over extremely long distances. The rock dove has an innate homing ability, meaning that it will generally return to its nest (it is believed) using magnetoreception. Flights as long as 1,800 km (1,100 miles) have been recorded by birds in competitive pigeon racing. Their average flying speed over moderate 965 km (600 miles) distances is around 97 km/h (60 miles per hour) and speeds of up to 160 km/h (100 miles per hour) have been observed in top racers for short distances.
+Because of this skill, domesticated pigeons were used to carry messages as messenger pigeons. They are usually referred to as "pigeon post" if used in post service, or "war pigeon" during wars. Until the introduction of telephones, homing pigeons were used commercially to deliver communication.
+Messenger pigeons are often incorrectly categorized as English Carrier pigeons, an ancient breed of fancy pigeons. They were used historically to send messages but lost the homing instinct long ago. Modern-day homing pigeons (homers) or racing pigeons (racing homers) do have "Carrier blood" in them because they are in part descendants of the old-style Carriers. This is one reason why they are still commonly but erroneously called "carrier pigeons". Although now they are typically referred to as homing pigeons.
+
+CDLIDENTICAL3CROWS	Identical Three Crows	
+CDLINNECK	In-Neck Pattern	
+CDLINVERTEDHAMMER	Inverted Hammer	
+CDLKICKING	Kicking	A kick is a physical strike using the leg, in unison usually with an area of the knee or lower using the foot, heel, tibia (shin), ball of the foot, blade of the foot, toes or knee (the latter is also known as a knee strike). This type of attack is used frequently by hooved animals as well as humans in the context of stand-up fighting.  Kicks play a significant role in many forms of martial arts, such as savate, taekwondo, MMA, sikaran, karate, Pankration, Kung Fu, Vovinam, kickboxing, Muay Thai, Yaw-Yan, capoeira, silat and kalaripayattu. Kicks are a universal act of aggression among humans.
+Kicking is also prominent from its use in many sports, especially those called football. The best known of these sports is association football, also known as soccer.
+CDLKICKINGBYLENGTH	Kicking - bull/bear determined by the longer marubozu	
+CDLLADDERBOTTOM	Ladder Bottom	
+CDLLONGLEGGEDDOJI	Long Legged Doji	
+CDLLONGLINE	Long Line Candle	
+CDLMARUBOZU	Marubozu	Marubozu is the name of a Japanese candlesticks formation used in technical analysis to indicate a stock has traded strongly in one direction throughout the session and closed at its high or low price of the day. A marubozu candle is represented only by a body; it has no wicks or shadows extending from the top or bottom of the candle. A white marubozu candle has a long white body and is formed when the open equals the low and the close equals the high.The white marubozu candle indicates that buyers controlled the price of the stock from the opening bell to the close of the day, and is considered very bullish.
+A black marubozu candle has a long black body and is formed when the open equals the high and the close equals the low. A black marubozu indicates that sellers controlled the price from the opening bell to the close of the day, and is considered very bearish.
+CDLMATCHINGLOW	Matching Low	
+CDLMATHOLD	Mat Hold	
+CDLMORNINGDOJISTAR	Morning Doji Star	
+CDLMORNINGSTAR	Morning Star	Morning Star or Morningstar may refer to:
+
+CDLONNECK	On-Neck Pattern	
+CDLPIERCING	Piercing Pattern	
+CDLRICKSHAWMAN	Rickshaw Man	Rickshaw Man (無法松の一生, Muhōmatsu no isshō, "The Life of Wild Matsu"), also released as Muhomatsu, the Rickshaw Man or The Rikisha-Man, is a 1958 color Japanese film directed by Hiroshi Inagaki.Set in the 1900s, it tells the story of Muhōmatsu, a rickshaw man played by Toshiro Mifune, who becomes a surrogate father to the child of a recently widowed woman played by Hideko Takamine.The film is a remake of a 1943 film of the same name.
+CDLRISEFALL3METHODS	Rising/Falling Three Methods	
+CDLSEPARATINGLINES	Separating Lines	
+CDLSHOOTINGSTAR	Shooting Star	Shooting star may refer to a meteor.
+Shooting star may also refer to: 
+
+CDLSHORTLINE	Short Line Candle	
+CDLSPINNINGTOP	Spinning Top	
+CDLSTALLEDPATTERN	Stalled Pattern	
+CDLSTICKSANDWICH	Stick Sandwich	
+CDLTAKURI	Takuri (Dragonfly Doji with very long lower shadow)	
+CDLTASUKIGAP	Tasuki Gap	
+CDLTHRUSTING	Thrusting Pattern	
+CDLTRISTAR	Tristar Pattern	
+CDLUNIQUE3RIVER	Unique 3 River	
+CDLUPSIDEGAP2CROWS	Upside Gap Two Crows	
+CDLXSIDEGAP3METHODS	Upside/Downside Gap Three Methods	
+CMO	Chande Momentum Oscillator	
+CORREL	Pearson's Correlation Coefficient (r)	
+DEMA	Double Exponential Moving Average	
+DX	Directional Movement Index	
+EMA	Exponential Moving Average	In statistics, a moving average (rolling average or running average) is a calculation to analyze data points by creating a series of averages of different subsets of the full data set. It is also called a moving mean (MM) or rolling mean and is a type of finite impulse response filter. Variations include: simple, and cumulative, or weighted forms (described below).
+Given a series of numbers and a fixed subset size, the first element of the moving average is obtained by taking the average of the initial fixed subset of the number series. Then the subset is modified by "shifting forward"; that is, excluding the first number of the series and including the next value in the subset.
+A moving average is commonly used with time series data to smooth out short-term fluctuations and highlight longer-term trends or cycles.  The threshold between short-term and long-term depends on the application, and the parameters of the moving average will be set accordingly.  For example, it is often used in technical analysis of financial data, like stock prices, returns or trading volumes.  It is also used in economics to examine gross domestic product, employment or other macroeconomic time series.  Mathematically, a moving average is a type of convolution and so it can be viewed as an example of a low-pass filter used in signal processing.  When used with non-time series data, a moving average filters higher frequency components without any specific connection to time, although typically some kind of ordering is implied. Viewed simplistically it can be regarded as smoothing the data.
+HT_DCPERIOD	Hilbert Transform - Dominant Cycle Period	
+HT_DCPHASE	Hilbert Transform - Dominant Cycle Phase	
+HT_PHASOR	Hilbert Transform - Phasor Components	
+HT_SINE	Hilbert Transform - SineWave	
+HT_TRENDLINE	Hilbert Transform - Instantaneous Trendline	
+HT_TRENDMODE	Hilbert Transform - Trend vs Cycle Mode	
+KAMA	Kaufman Adaptive Moving Average	
+LINEARREG	Linear Regression	In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable.In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. Such models are called linear models. Most commonly, the conditional mean of the response given the values of the explanatory variables (or predictors) is assumed to be an affine function of those values; less commonly, the conditional median or some other quantile is used. Like all forms of regression analysis, linear regression focuses on the conditional probability distribution of the response given the values of the predictors, rather than on the joint probability distribution of all of these variables, which is the domain of multivariate analysis.
+Linear regression was the first type of regression analysis to be studied rigorously, and to be used extensively in practical applications. This is because models which depend linearly on their unknown parameters are easier to fit than models which are non-linearly related to their parameters and because the statistical properties of the resulting estimators are easier to determine.
+Linear regression has many practical uses. Most applications fall into one of the following two broad categories:
+
+If the goal is prediction, forecasting, or error reduction, linear regression can be used to fit a predictive model to an observed data set of values of the response and explanatory variables. After developing such a model, if additional values of the explanatory variables are collected without an accompanying response value, the fitted model can be used to make a prediction of the response.
+If the goal is to explain variation in the response variable that can be attributed to variation in the explanatory variables, linear regression analysis can be applied to quantify the strength of the relationship between the response and the explanatory variables, and in particular to determine whether some explanatory variables may have no linear relationship with the response at all, or to identify which subsets of explanatory variables may contain redundant information about the response.Linear regression models are often fitted using the least squares approach, but they may also be fitted in other ways, such as by minimizing the "lack of fit" in some other norm (as with least absolute deviations regression), or by minimizing a penalized version of the least squares cost function as in ridge regression (L2-norm penalty) and lasso (L1-norm penalty). Conversely, the least squares approach can be used to fit models that are not linear models. Thus, although the terms "least squares" and "linear model" are closely linked, they are not synonymous.
+LINEARREG_ANGLE	Linear Regression Angle	
+LINEARREG_INTERCEPT	Linear Regression Intercept	
+LINEARREG_SLOPE	Linear Regression Slope	
+MA	All Moving Average	
+MACD	Moving Average Convergence/Divergence	
+MACDEXT	MACD with controllable MA type	
+MACDFIX	Moving Average Convergence/Divergence Fix 12/26	
+MAMA	MESA Adaptive Moving Average	
+MAX	Highest value over a specified period	
+MAXINDEX	Index of highest value over a specified period	
+MEDPRICE	Median Price	
+MFI	Money Flow Index	The money flow index (MFI) is an oscillator that ranges from 0 to 100. It is used to show the money flow (an approximation of the dollar value of a day's trading) over several days.
+MIDPOINT	MidPoint over period	
+MIDPRICE	Midpoint Price over period	
+MIN	Lowest value over a specified period	
+MININDEX	Index of lowest value over a specified period	
+MINMAX	Lowest and highest values over a specified period	
+MINMAXINDEX	Indexes of lowest and highest values over a specified period	
+MINUS_DI	Minus Directional Indicator	
+MINUS_DM	Minus Directional Movement	
+MOM	Momentum	In Newtonian mechanics, linear momentum, translational momentum, or simply momentum (pl. momenta) is the product of the mass and velocity of an object. It is a vector quantity, possessing a magnitude and a direction. If m is an object's mass and v is its velocity (also a vector quantity), then the object's momentum is:
+  
+    
+      
+        
+          p
+        
+        =
+        m
+        
+          v
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} =m\mathbf {v} .}
+  
+In SI units, momentum is measured in kilogram meters per second (kg⋅m/s).
+Newton's second law of motion states that the rate of change of a body's momentum is equal to the net force acting on it. Momentum depends on the frame of reference, but in any inertial frame it is a conserved quantity, meaning that if a closed system is not affected by external forces, its total linear momentum does not change. Momentum is also conserved in special relativity (with a modified formula) and, in a modified form,  in electrodynamics, quantum mechanics, quantum field theory, and general relativity. It is an expression of one of the fundamental symmetries of space and time: translational symmetry.
+Advanced formulations of classical mechanics, Lagrangian and Hamiltonian mechanics, allow one to choose coordinate systems that incorporate symmetries and constraints. In these systems the conserved quantity is  generalized momentum, and in general this is different from the kinetic momentum defined above. The concept of generalized momentum is carried over into quantum mechanics, where it becomes an operator on a wave function. The momentum and position operators are related by the Heisenberg uncertainty principle.
+In continuous systems such as electromagnetic fields, fluid dynamics and deformable bodies, a momentum density can be defined, and a continuum version of the conservation of momentum leads to equations such as the Navier–Stokes equations for fluids or the Cauchy momentum equation for deformable solids or fluids.
+NATR	Normalized Average True Range	
+OBV	On Balance Volume	
+PLUS_DI	Plus Directional Indicator	
+PLUS_DM	Plus Directional Movement	
+PPO	Percentage Price Oscillator	
+ROC	Rate of change : ((price/prevPrice)-1)*100	
+ROCP	Rate of change Percentage: (price-prevPrice)/prevPrice	
+ROCR	Rate of change ratio: (price/prevPrice)	
+ROCR100	Rate of change ratio 100 scale: (price/prevPrice)*100	
+RSI	Relative Strength Index	The relative strength index (RSI) is a technical indicator used in the analysis of financial markets. It is intended to chart the current and historical strength or weakness of a stock or market based on the closing prices of a recent trading period. The indicator should not be confused with relative strength.
+The RSI is classified as a momentum oscillator, measuring the velocity and magnitude of price movements. Momentum is the rate of the rise or fall in price. The RSI computes momentum as the ratio of higher closes to lower closes: stocks which have had more or stronger positive changes have a higher RSI than stocks which have had more or stronger negative changes.
+The RSI is most typically used on a 14-day timeframe, measured on a scale from 0 to 100, with high and low levels marked at 70 and 30, respectively. Shorter or longer timeframes are used for alternately shorter or longer outlooks. More extreme high and low levels—80 and 20, or 90 and 10—occur less frequently but indicate stronger momentum.
+The relative strength index was developed by J. Welles Wilder and published in a 1978 book, New Concepts in Technical Trading Systems, and in Commodities magazine (now Futures magazine) in the June 1978 issue.  It has become one of the most popular oscillator indices.The RSI provides signals that tell investors to buy when the security or currency is oversold and to sell when it is overbought. RSI with recommended parameters and its day-to-day optimization was tested and compared with other strategies in Marek and Šedivá (2017). The testing was randomised in time and companies (e.g., Apple, Exxon Mobile, IBM, Microsoft) and showed that RSI can still produce good results; however, in longer time it is usually overcome by the simple buy-and-hold strategy. 
+
+SAR	Parabolic SAR	In stock and securities market technical analysis, parabolic SAR (parabolic stop and reverse) is a method devised by J. Welles Wilder, Jr., to find potential reversals in the market price direction of traded goods such as securities or currency exchanges such as forex. It is a trend-following (lagging) indicator and may be used to set a trailing stop loss or determine entry or exit points based on prices tending to stay within a parabolic curve during a strong trend.
+Similar to option theory's concept of time decay, the concept draws on the idea that "time is the enemy".  Thus, unless a security can continue to generate more profits over time, it should be liquidated. The indicator generally works only in trending markets, and creates "whipsaws" during ranging or, sideways phases.  Therefore, Wilder recommends first establishing the direction or change in direction of the trend through the use of parabolic SAR, and then using a different indicator such as the Average Directional Index to determine the strength of the trend.
+A parabola below the price is generally bullish, while a parabola above is generally bearish. A parabola below the price may be used as support, whereas a parabola above the price may represent resistance. These parabola may be used as price areas for stop losses or profit targets.
+SAREXT	Parabolic SAR - Extended	
+SMA	Simple Moving Average	
+STDDEV	Standard Deviation	In statistics, the standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range.
+Standard deviation may be abbreviated SD, and is most commonly represented in mathematical texts and equations by the lower case Greek letter sigma σ, for the population standard deviation, or the Latin letter s, for the sample standard deviation.(For other uses of the symbol σ in science and mathematics, see Sigma § Science and mathematics.)
+The standard deviation of a random variable, statistical population, data set, or probability distribution is the square root of its variance. It is algebraically simpler, though in practice less robust, than the average absolute deviation. A useful property of the standard deviation is that unlike the variance, it is expressed in the same unit as the data.
+In addition to expressing the variability of a population, the standard deviation is commonly used to measure confidence in statistical conclusions. For example, the margin of error in polling data is determined by calculating the expected standard deviation in the results if the same poll were to be conducted multiple times. This derivation of a standard deviation is often called the "standard error of the estimate", or "standard error of the mean" when referring to a mean. It is computed as the standard deviation of all the means that would be computed from that population, if an infinite number of samples were drawn and a mean for each sample were computed.
+The standard deviation of a population and the standard error of a statistic derived from that population (e.g., mean) are quite different but related (namely, by the inverse of the square root of the number of observations). The reported margin of error of a poll is computed from the standard error of the mean (or alternatively, from the product of the standard deviation of the population and the inverse of the square root of the sample size), and is typically about twice the standard deviation—the half-width of a 95 percent confidence interval.
+In science, many researchers report the standard deviation of experimental data, and by convention, only effects more than two standard deviations away from a null expectation are considered statistically significant, by which normal random error or variation in the measurements is in this way distinguished from likely genuine effects or associations. The standard deviation is also important in finance, where the standard deviation on the rate of return on an investment is a measure of the volatility of the investment.
+When only a sample of data from a population is available, the term standard deviation of the sample or sample standard deviation can refer to either the above-mentioned quantity as applied to those data, or to a modified quantity that is an unbiased estimate of the population standard deviation (the standard deviation of the entire population).
+
+STOCH	Stochastic	Stochastic (from from Greek  στόχος (stókhos) 'aim, guess'.) is any randomly determined process. In mathematics the terms stochastic process and random process are interchangeable.Stochastic processes appear in many different fields, including the physical sciences such as biology, chemistry, ecology,  neuroscience, and physics as well as technology and engineering fields such as image processing, signal processing, information theory, computer science,, cryptography and telecommunications. It is also used in finance, due to seemingly random changes in financial markets as well as in medicine, linguistics,  music, media, colour theory,  botany, manufacturing, and geomorphology.
+Stochastic social science theory is similar to systems theory.
+STOCHF	Stochastic Fast	
+STOCHRSI	Stochastic Relative Strength Index	
+SUM	Summation	In mathematics, summation is the addition of a sequence of any kind of numbers, called addends or summands; the result is their sum or total. Beside numbers, other types of values can be summed as well: functions, vectors, matrices, polynomials and, in general, elements of any type of mathematical objects on which an operation denoted "+" is defined.
+Summations of infinite sequences are called series. They involve the concept of limit, and are not considered in this article.
+The summation of an explicit sequence is denoted as a succession of additions. For example, summation of [1, 2, 4, 2] is denoted 1 + 2 + 4 + 2, and results in 9, that is, 1 + 2 + 4 + 2 = 9. Because addition is associative and commutative, there is no need of parentheses, and the result is the same irrespective of the order of the summands. Summation of a sequence of only one element results in this element itself. Summation of an empty sequence (a sequence with zero element), by convention, results in 0.
+Very often, the elements of a sequence are defined, through regular pattern, as a function of their place in the sequence. For simple patterns, summation of long sequences may be represented with most summands replaced by ellipses. For example, summation of the first 100 natural numbers may be written as 1 + 2 + 3 + 4 + ⋅⋅⋅ + 99 + 100. Otherwise, summation is denoted by using Σ notation, where 
+  
+    
+      
+        
+          ∑
+        
+      
+    
+    {\displaystyle \textstyle \sum }
+   is an enlarged capital Greek letter sigma. For example, the sum of the first n natural integers can be denoted as 
+  
+    
+      
+        
+          
+            ∑
+            
+              i
+              =
+              1
+            
+            
+              n
+            
+          
+          i
+          .
+        
+      
+    
+    {\displaystyle \textstyle \sum _{i=1}^{n}i.}
+  
+For long summations, and summations of variable length (defined with ellipses or Σ notation), it is a common problem to find closed-form expressions for the result. For example,
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        i
+        =
+        
+          
+            
+              n
+              (
+              n
+              +
+              1
+              )
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{i=1}^{n}i={\frac {n(n+1)}{2}}.}
+  Although such formulas do not always exist, many summation formulas have been discovered—with some of the most common and elementary ones being listed in the remaining of this article.
+T3	Triple Exponential Moving Average (T3)	
+TEMA	Triple Exponential Moving Average	
+TRANGE	True Range	Average true range (ATR) is a technical analysis volatility indicator originally developed by J. Welles Wilder, Jr. for commodities. The indicator does not provide an indication of price trend, simply the degree of price volatility.
+The average true range is an N-period smoothed moving average (SMMA) of the true range values. Wilder recommended a 14-period smoothing.
+TRIMA	Triangular Moving Average	
+TRIX	1-day Rate-Of-Change (ROC) of a Triple Smooth EMA	
+TSF	Time Series Forecast	
+TYPPRICE	Typical Price	
+ULTOSC	Ultimate Oscillator	The ultimate oscillator is a theoretical concept in finance developed by Larry Williams as a way to account for the problems experienced in most oscillators when used over different lengths of time.
+
+The oscillator is a technical analysis indicator based on a notion of buying or selling "pressure" represented by where a day's closing price falls within the day's true range.
+The calculation starts with "buying pressure", which is the amount by which the close is above the "true low" on a given day. The true low is the lesser of the given day's trading low and the previous close.
+
+  
+    
+      
+        b
+        p
+        =
+        c
+        l
+        o
+        s
+        e
+        −
+        min
+        (
+        l
+        o
+        w
+        ,
+        p
+        r
+        e
+        v
+        
+        c
+        l
+        o
+        s
+        e
+        )
+      
+    
+    {\displaystyle bp=close-\min(low,prev\,close)}
+  The true range (the same as used in average true range) is the difference between the "true high" and the true low above. The true high is the greater of the given day's trading high and the previous close.
+
+  
+    
+      
+        t
+        r
+        =
+        max
+        (
+        h
+        i
+        g
+        h
+        ,
+        p
+        r
+        e
+        v
+        
+        c
+        l
+        o
+        s
+        e
+        )
+        −
+        min
+        (
+        l
+        o
+        w
+        ,
+        p
+        r
+        e
+        v
+        
+        c
+        l
+        o
+        s
+        e
+        )
+      
+    
+    {\displaystyle tr=\max(high,prev\,close)-\min(low,prev\,close)}
+  The total buying pressure over the past 7 days is expressed as a fraction of the total true range over the same period. If 
+  
+    
+      
+        b
+        
+          p
+          
+            1
+          
+        
+      
+    
+    {\displaystyle bp_{1}}
+   is today, 
+  
+    
+      
+        b
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle bp_{2}}
+   is yesterday, etc., then
+
+  
+    
+      
+        a
+        v
+        
+          g
+          
+            7
+          
+        
+        =
+        
+          
+            
+              b
+              
+                p
+                
+                  1
+                
+              
+              +
+              b
+              
+                p
+                
+                  2
+                
+              
+              +
+              ⋯
+              +
+              b
+              
+                p
+                
+                  7
+                
+              
+            
+            
+              t
+              
+                r
+                
+                  1
+                
+              
+              +
+              t
+              
+                r
+                
+                  2
+                
+              
+              +
+              ⋯
+              +
+              t
+              
+                r
+                
+                  7
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle avg_{7}={bp_{1}+bp_{2}+\cdots +bp_{7} \over tr_{1}+tr_{2}+\cdots +tr_{7}}}
+  The same is done for the past 14 days and past 28 days and the resulting three ratios combined in proportions 4:2:1, and scaled to make a percentage 0 to 100. The idea of the 7-, 14- and 28-day periods is to combine short, intermediate and longer time frames.
+
+  
+    
+      
+        U
+        l
+        t
+        O
+        s
+        c
+        =
+        100
+        ×
+        
+          
+            
+              4
+              ×
+              a
+              v
+              
+                g
+                
+                  7
+                
+              
+              +
+              2
+              ×
+              a
+              v
+              
+                g
+                
+                  14
+                
+              
+              +
+              a
+              v
+              
+                g
+                
+                  28
+                
+              
+            
+            
+              4
+              +
+              2
+              +
+              1
+            
+          
+        
+      
+    
+    {\displaystyle UltOsc=100\times {4\times avg_{7}+2\times avg_{14}+avg_{28} \over 4+2+1}}
+  Williams had specific criteria for a buy or sell signal. A buy signal occurs when,
+
+Bullish divergence between price and the oscillator is observed, meaning prices make new lows but the oscillator doesn't
+During the divergence the oscillator has fallen below 30.
+The oscillator then rises above its high during the divergence, i.e. the high in between the two lows. The buy trigger is the rise through that high.The position is closed when the oscillator rises above 70 (considered overbought), or a rise above 50 but then a fallback through 45.
+
+A sell signal is generated conversely on a bearish divergence above level 70, to be subsequently closed out below 30 (as oversold).
+
+VAR	Variance	In probability theory and statistics, variance is the expectation of the squared deviation of a random variable from its mean.  Informally, it measures how far a set of numbers is spread out from their average value. Variance has a central role in statistics, where some ideas that use it include descriptive statistics, statistical inference, hypothesis testing, goodness of fit, and Monte Carlo sampling. Variance is an important tool in the sciences, where statistical analysis of data is common. The variance is the square of the standard deviation, the second central moment of a distribution, and the covariance of the random variable with itself, and it is often represented by 
+  
+    
+      
+        
+          σ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma ^{2}}
+  , 
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s^{2}}
+  , or 
+  
+    
+      
+        Var
+        ⁡
+        (
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {Var} (X)}
+  .
+WCLPRICE	Weighted Close Price	
+WILLR	Williams' %R	
+WMA	Weighted Moving Average	

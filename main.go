@@ -9,14 +9,12 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"io/ioutil"
 	"io"
 	"os"
-	"encoding/json"
 	"encoding/csv"
 	"time"
 	"strings"
-	"github.com/FriendlyUser/google-definition-fetch/pkg/utils"
+	utils "github.com/FriendlyUser/google-definition-fetch/utils" 
 )
 
 
@@ -48,7 +46,7 @@ func main() {
 			log.Fatal(err)
 		}
 		searchTerm := record[1]
-		newExtract, err := findTerm(searchTerm, &spaceClient)
+		newExtract, err := utils.FindTerm(searchTerm, &spaceClient)
 		if err != nil {
 			continue
 		}
@@ -60,5 +58,5 @@ func main() {
 			log.Fatal(err)
 		}
 	}
-	_, err = findTerm("Ease of movement", &spaceClient)
+	_, err = utils.FindTerm("Ease of movement", &spaceClient)
 }
